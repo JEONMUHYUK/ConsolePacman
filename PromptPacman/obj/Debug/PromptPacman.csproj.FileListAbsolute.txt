@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PromptPacman\PromptPacman\obj\Debug\PromptPacman.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PromptPacman\PromptPacman\obj\Debug\PromptPacman.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PromptPacman\PromptPacman\obj\Debug\PromptPacman.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PromptPacman\PromptPacman\bin\Debug\PromptPacman.exe.config
+C:\Users\User\Desktop\PromptPacman\PromptPacman\bin\Debug\PromptPacman.exe
+C:\Users\User\Desktop\PromptPacman\PromptPacman\bin\Debug\PromptPacman.pdb
+C:\Users\User\Desktop\PromptPacman\PromptPacman\obj\Debug\PromptPacman.exe
+C:\Users\User\Desktop\PromptPacman\PromptPacman\obj\Debug\PromptPacman.pdb
+C:\Users\ich96\OneDrive\바탕 화면\PromptPacman\PromptPacman\PromptPacman\bin\Debug\PromptPacman.exe.config
+C:\Users\ich96\OneDrive\바탕 화면\PromptPacman\PromptPacman\PromptPacman\bin\Debug\PromptPacman.exe
+C:\Users\ich96\OneDrive\바탕 화면\PromptPacman\PromptPacman\PromptPacman\bin\Debug\PromptPacman.pdb
+C:\Users\ich96\OneDrive\바탕 화면\PromptPacman\PromptPacman\PromptPacman\obj\Debug\PromptPacman.csproj.AssemblyReference.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptPacman\PromptPacman\PromptPacman\obj\Debug\PromptPacman.csproj.SuggestedBindingRedirects.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptPacman\PromptPacman\PromptPacman\obj\Debug\PromptPacman.csproj.CoreCompileInputs.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptPacman\PromptPacman\PromptPacman\obj\Debug\PromptPacman.exe
+C:\Users\ich96\OneDrive\바탕 화면\PromptPacman\PromptPacman\PromptPacman\obj\Debug\PromptPacman.pdb
